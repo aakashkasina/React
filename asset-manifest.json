@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aakashkasina/samplewebsite/static/css/main.2cce8147.chunk.css",
+    "main.js": "/aakashkasina/samplewebsite/static/js/main.ac5c1b8e.chunk.js",
+    "main.js.map": "/aakashkasina/samplewebsite/static/js/main.ac5c1b8e.chunk.js.map",
+    "runtime~main.js": "/aakashkasina/samplewebsite/static/js/runtime~main.5f6f728b.js",
+    "runtime~main.js.map": "/aakashkasina/samplewebsite/static/js/runtime~main.5f6f728b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/aakashkasina/samplewebsite/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/aakashkasina/samplewebsite/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/aakashkasina/samplewebsite/index.html",
+    "precache-manifest.e8f45f901569a95e54f3f13de690bc92.js": "/aakashkasina/samplewebsite/precache-manifest.e8f45f901569a95e54f3f13de690bc92.js",
+    "service-worker.js": "/aakashkasina/samplewebsite/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/aakashkasina/samplewebsite/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/aakashkasina/samplewebsite/static/media/logo.5d5d9eef.svg"
+  }
+}
